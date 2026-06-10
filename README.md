@@ -95,6 +95,4 @@ The project uses the InsightFace Buffalo_L model:
 * REST API integration
 * Cloud deployment
 
-## Author
 
-Mahesh Sankhat
